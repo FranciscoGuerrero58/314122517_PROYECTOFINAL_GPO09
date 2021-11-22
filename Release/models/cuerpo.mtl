@@ -1,0 +1,32 @@
+newmtl lambert2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd robot3.png
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd robot.png
+Ni 1.00
+newmtl tinker1:color__5183249
+illum 4
+Kd 0.69 0.91 0.94
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl tinker1:color__7005663
+illum 4
+Kd 0.58 0.10 0.13
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
